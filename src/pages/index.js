@@ -26,6 +26,7 @@ export default function Home() {
 
     return (
       <div className="container-fluid">
+        
         <Navbar />
         <div className="container mt-5">
           <div className="video-container mt-5" style={{ maxWidth: '100%', height: 'auto', textAlign: 'center', overflow: 'hidden' }}>

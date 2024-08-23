@@ -233,7 +233,7 @@ export default function Login() {
 
                   <button
                     type="button"
-                    style={{ marginLeft: "140px" }}
+                    style={{ marginLeft: "30%" }}
                     className="btn btn-outline-success w-25  mb-3"
                   >
                     Login
@@ -245,7 +245,7 @@ export default function Login() {
               <button
                 type="button"
                 className="btn btn-secondary  mt-3 btn-lg w-50"
-                style={{ marginLeft: "90px" }}
+                style={{ marginLeft: "20%" }}
                 onClick={toggleForm}
               >
                 {isSignUp ? " Login" : "Sign Up"}
